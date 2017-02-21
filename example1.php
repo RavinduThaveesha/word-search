@@ -3,8 +3,8 @@
 include ('wordsearch.php');
 
 $wordsearch = new WordSearch();
-$wordsearch->string = "KEEKKFORGEEKS|GEEESQUIZGEEK|EEEQAPRACTICE|GEEGEEJACTICE|GEEQAPRACTICE|GEEKAPRACTICE|KEEKKFORGEEKS";
-$wordsearch->word = "GEEK";
+$wordsearch->string = "KEEDKFORFEEDS|GEEESQUIZFEED|EEEQAPRACTICE|FEEGEEJACTICE|GEEQAPRACTICE|FEEDAPRACTICE|KEEKKFORFEEDS";
+$wordsearch->word = "FEED";
 
 ?>
 
